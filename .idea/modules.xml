@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rock-paper.iml" filepath="$PROJECT_DIR$/.idea/modules/rock-paper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rock-paper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/rock-paper_main.iml" group="rock-paper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rock-paper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/rock-paper_test.iml" group="rock-paper" />
+    </modules>
+  </component>
+</project>
